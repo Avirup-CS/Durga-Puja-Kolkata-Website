@@ -1,0 +1,22 @@
+CSS TAGS
+background-image: Sets a background image
+background-position: Sets the position of the background
+background-repeat: Does not repeat the background image
+background-size: Stretches the image to fill the entire content area
+background-attachment: Fixes the image in position so that it will not scroll with the rest of the webpage
+font-family: Specifies a list of prioritized fonts and generic family names
+font-size: Specifies the size of the text
+font-weight: It sets the weight (or boldness) of the font
+text-shadow: Adds shadows to text text-align: Set the horizontal alignment of a text
+text-attachment: Fixes the text in position
+transition: It provides a way to control animation speed when changing CSS properties
+color: Sets the foreground color value of an element’s text and text decorations and sets the currentcolor value
+float: It places an element on the left or right side of its container, allowing text and inline elements to wrap around it
+padding: Generates space around an element’s content, inside of any defined borders
+border: Specifies the style, width, and color of an element’s border
+border-radius: Rounds the corners of an element’s outer border edge
+filter: Applies graphical effects like blur or color shift to an element
+:hover--- the :hover selector is used to select elements when you mouse over them
+width: Sets an element’s width
+height: Specifies the height of an element
+box-shadow: Used to apply one or more shadows to an element
